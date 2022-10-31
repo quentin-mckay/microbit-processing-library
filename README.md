@@ -1,7 +1,5 @@
 # Micro:bit to Processing Library
 
-## About
-
 Custom library allowing for easy access to all data from Micro:bit inside of Processing.py.
 
 ## Installation
